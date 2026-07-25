@@ -1,0 +1,13 @@
+{
+  "name": "grove-framer-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "framer dev",
+    "build": "framer build",
+    "start": "framer dev"
+  },
+  "dependencies": {
+    "framer": "^1.0.0"
+  }
+}
